@@ -421,8 +421,8 @@
 
 .right_area h3 {
     font-size: 32px;
-    color: #333;
     font-weight: 700;
+    color: #333;
     word-break: keep-all;
 }
 
@@ -436,25 +436,25 @@
 }
 
 .right_area p {
-    font-size: 15px;
+    font-size: 16px;
     color: #999;
-    margin-top: 25px;
+    margin-top: 26px;
     font-weight: 700;
 }
 
 .right_area span {
     display: block;
-    font-size: 18px;
+    font-size: 186x;
     line-height: 1.6;
     color: #444;
-    margin-top: 30px;
+    margin-top: 32px;
     word-break: keep-all;
 }
 
 .right_area .btn {
     display: inline-block;
     margin-top: 40px;
-    padding: 12px 40px;
+    padding: 16px 40px;
     border: 1px solid #ccc;
     color: #333;
     transition: 0.3s;
