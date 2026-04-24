@@ -490,11 +490,11 @@
 }
 
 .arrow_btn .arrow.prev {
-    left: 0;
+    left: 15px;
 }
 
 .arrow_btn .arrow.next {
-    right: 0;
+    right: 15px;
 }
 
 
@@ -521,7 +521,7 @@
 
 .main_banner .title h2 {
     font-size: 40px;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 60px;
     line-height: 1.4;
 }

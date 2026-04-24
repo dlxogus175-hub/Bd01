@@ -48,7 +48,6 @@ $(function () {
             observeParents: true,
         });
 
-        // UI만 제어 (이게 핵심)
         if (isSingle) {
             $(el).find('.arrow_btn').hide();
         }
