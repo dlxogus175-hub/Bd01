@@ -676,7 +676,7 @@
     transform: translateY(-50%);
 
     width: 2px;
-    height: 12px;
+    height: 0.5em;
     background: #ddd;
 }
 
@@ -699,7 +699,7 @@
     content: "";
     display: inline-block;
     width: 1px;
-    height: 10px;
+    height: 0.5em;
     background: #ccc;
     margin: 0 10px;
     vertical-align: middle;
@@ -715,7 +715,7 @@
 
 .footer .footer_bottom p {
     color: #888;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .footer .family_link select {
